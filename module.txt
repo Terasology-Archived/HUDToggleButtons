@@ -1,0 +1,9 @@
+{
+    "id" : "HUDToggleButtons",
+    "version" : "0.1.0",
+    "author" : "Josharias",
+    "displayName" : "HUDToggleButtons",
+    "description" : "Infrastructure to add side buttons to toggle player state",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}

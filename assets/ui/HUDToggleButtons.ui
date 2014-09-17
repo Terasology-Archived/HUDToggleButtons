@@ -1,0 +1,21 @@
+{
+    "type": "HUDToggleButtons",
+    "skin": "HUD",
+    "contents": {
+        "type": "relativeLayout",
+        "contents": [
+            {
+                "type": "columnLayout",
+                "id": "container",
+                "contents": [
+                ],
+                "layoutInfo": {
+                        "use-content-width": true,
+                        "use-content-height": true,
+                        "position-vertical-center": {},
+                        "position-left": {}
+                    }
+            }
+        ]
+    }
+}
