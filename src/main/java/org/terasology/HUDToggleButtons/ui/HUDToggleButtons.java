@@ -36,7 +36,7 @@ public class HUDToggleButtons extends CoreHudWidget implements ControlWidget {
     private ColumnLayout container;
     private Set<HUDToggleButtonsClientSystem.HUDToggleButtonState> addedStates = Sets.newHashSet();
 
-    protected void initialise() {
+    public void initialise() {
         container = find("container", ColumnLayout.class);
     }
 
